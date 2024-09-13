@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a B.Tech(CSE) Student at Amity University and a Web Developer";
+  "I'm a B. Tech(CSE) Student at Amity University and a MERN Full Stack Developer";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "HTML CSS JS",
-  "Reactjs",
-  "DSA",
+  "Frameworks: React, Express, Node",
+  "Programming Languages: C & C++, Java, Python, JavaScript",
+  "Databases: MongoDB, SQL & Oracle SQL",
+  "Version Control: Git, GitHub",
   "Python for Data Science",
-  "Java",
-  "C++ & C",
+  "DSA",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Coding and Web-Development Skills";
+  "Pre-Final Computer Science and Engineering student at Amity University [CGPA: 8.53], looking for a Software Engineering internship. Seeking to leverage and utilize my coding skills and gaining practical experience in software development to enable myself to contribute towards real world projects under the guidance of experienced software engineers.";
 
 const About = () => {
   return (

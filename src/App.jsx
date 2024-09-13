@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Sarang Rastogi",
-  title: "B.Tech Student & Web-Developer",
+  title: "B.Tech Student & MERN Full Stack Developer",
   email: "rastogi.sarang2004@gmail.com",
   gitHub: "https://github.com/Sarang19114",
   instagram: "https://www.instagram.com/sarang_rs19/",

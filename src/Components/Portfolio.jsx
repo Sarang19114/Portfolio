@@ -31,27 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Amazon Clone",
+    title: "eCommerce website",
     description:
-      "Amazon clone using HTML and CSS, replicating the design and layout of the e-commerce platform.",
-    url: "https://github.com/Sarang19114/Amazon_Clone",
+      "Leveraged React to create a dynamic user interface, implemented APIs with Node.js and Express.js, and utilized MongoDB for efficient data storage.",
+    url: "",
   },
   {
-    title: "Netflix Clone",
+    title: "Booking Shows website",
     description:
-      "Netflix clone using HTML and CSS, replicating the design and user interface of the streaming platform.",
+      "Employed React for a user-friendly interface. Utilized Node.js and Express.js to build a scalable backend ",
     url: "https://github.com/Sarang19114/Netflix_Clone",
   },
   {
     title: "Sign Language Recogniton",
     description:
-      "Developing a sign language recognition project using machine learning techniques, specifically Random Forest",
+      "Using Python and Random Forest, achieving a 99% accuracy rate in recognizing various sign language gestures.",
     url: "Will Upload Soon",
   },
   {
     title: "Research Papers",
     description:
-      "Authored a Research Paper on Cloud Gaming and Authoring one on Sign Language Recognition",
+      "Authored a Research Papers on Cloud Gaming and on Sign Language Recognition",
     url: "Will Upload Soon",
   },
 ];
