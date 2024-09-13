@@ -27,11 +27,11 @@ const siteProps = {
   name: "Sarang Rastogi",
   title: "B.Tech Student & MERN Full Stack Developer",
   email: "rastogi.sarang2004@gmail.com",
-  gitHub: "https://github.com/Sarang19114",
-  instagram: "https://www.instagram.com/sarang_rs19/",
-  linkedIn: "https://www.linkedin.com/in/sarang-rastogi-498948249/",
+  gitHub: "Sarang19114",
+  instagram: "sarang_rs19",
+  linkedIn: "sarang-rastogi-498948249",
   medium: "",
-  twitter: "https://x.com/RastogiSarang",
+  twitter: "RastogiSarang",
 };
 
 const primaryColor = "#4E567E";

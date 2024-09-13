@@ -40,7 +40,7 @@ const projectList = [
     title: "Booking Shows website",
     description:
       "Employed React for a user-friendly interface. Utilized Node.js and Express.js to build a scalable backend ",
-    url: "https://github.com/Sarang19114/Netflix_Clone",
+    url: "",
   },
   {
     title: "Sign Language Recogniton",
@@ -50,8 +50,7 @@ const projectList = [
   },
   {
     title: "Research Papers",
-    description:
-      "Authored a Research Papers on Cloud Gaming and on Sign Language Recognition",
+    description: "Authored a Research Papers on Cloud Gaming and on Sign Language Recognition",
     url: "Will Upload Soon",
   },
 ];
